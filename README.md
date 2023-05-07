@@ -1,2 +1,4 @@
 # medremind
-(https://user-images.githubusercontent.com/86490315/236688873-cabe9ba5-28b7-4a84-ad16-572955af78c9.png)
+
+
+![med ui](https://user-images.githubusercontent.com/86490315/236688944-20f2921b-c32e-46e5-9ec3-2c1086993419.png)
